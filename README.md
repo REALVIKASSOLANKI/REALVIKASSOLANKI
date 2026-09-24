@@ -8,9 +8,10 @@
 # tools:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=flat-square&logo=tor-project&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=flat-square&logo=Meta&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=flat-square&logo=steam&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=flat-square&logo=epicgames&logoColor=white)
 # stats:
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=REALVIKASSOLANKI&theme=moltack&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ![](https://github-readme-stats.shion.dev/api?username=REALVIKASSOLANKI&theme=moltack&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=REALVIKASSOLANKI&theme=moltack&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=REALVIKASSOLANKI&theme=moltack&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 ## milestone 
 ![](https://github-profile-trophy.vercel.app/?username=REALVIKASSOLANKI&theme=moltack&no-frame=false&no-bg=false&margin-w=4)
